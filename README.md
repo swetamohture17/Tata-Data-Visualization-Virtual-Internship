@@ -52,3 +52,7 @@ Analytics & Insights:
 Turning raw data into actionable insights that directly impact business decisions.
 
 By following these steps and focusing on these key skill sets, businesses can use data visualization not just as a tool for understanding past performance but as a strategic asset for shaping the future. The ability to frame business questions, choose the right visuals, create effective representations, and communicate insights clearly empowers organizations to make smarter, faster decisions in an increasingly complex marketplace.
+
+
+
+Go through:https://www.theforage.com/landing/State%20University%20of%20New%20York%20at%20Buffalo/H3DTdoprff2nk4D5q/Data%20Analytics
